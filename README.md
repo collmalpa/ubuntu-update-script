@@ -21,7 +21,7 @@ This repository contains a simple yet comprehensive Bash script designed to keep
 1. Clone this repository or copy the script to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ubuntu-update-script.git
+   git clone https://github.com/collmalpa/ubuntu-update-script.git
    cd ubuntu-update-script
    ```
 
